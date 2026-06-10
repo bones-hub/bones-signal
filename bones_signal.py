@@ -1,5 +1,5 @@
 """
-BoneSignal — Market Regime Engine
+BoneSignal - Market Regime Engine
 Built by Bones HQ (@0x_BoneWalker)
 
 A CMC Skill that classifies the current crypto market regime using
@@ -122,7 +122,7 @@ def classify_regime(fear_greed, global_metrics, movers):
         for c in movers["top_losers"]
     ]) or "  No significant losers above $100M market cap"
 
-    prompt = f"""You are BoneSignal — a crypto market regime classifier built by Bones HQ (@0x_BoneWalker).
+    prompt = f"""You are BoneSignal - a crypto market regime classifier built by Bones HQ (@0x_BoneWalker).
 
 You are a CT-native trader who has survived multiple cycles: the 2022 Luna collapse, the FTX implosion, the 2024 ETF euphoria, and the 2025 altcoin wipeout. You've watched people get wrecked by ignoring regime context and you've watched others print by reading it correctly.
 
@@ -172,8 +172,8 @@ MARKET READ:
 
 KEY SIGNALS:
 - [The single most telling data point and what it means]
-- [Second signal — focus on any divergence between layers]
-- [Third signal — what the smart money flow looks like]
+- [Second signal - focus on any divergence between layers]
+- [Third signal - what the smart money flow looks like]
 
 PLAYBOOK:
 [Concrete moves. Name specific asset categories or sectors. Give a sizing approach — how much to deploy vs hold back. State the exact condition that triggers action vs staying out. Write like you have real money on the line.]
@@ -228,7 +228,7 @@ BTC Dom:       {global_metrics['btc_dominance']}%
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def run():
-    print("\n🦴 BONES SIGNAL — Market Regime Engine")
+    print("\n🦴 BONES SIGNAL - Market Regime Engine")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
 
     try:
