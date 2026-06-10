@@ -1,8 +1,8 @@
 # 🦴 BoneSignal - Market Regime Engine
 
-> *Most signals tell you what price is doing. BoneSignal tells you what the market is doing — and what to do about it.*
+> *Most signals tell you what price is doing. BoneSignal tells you what the market is doing, and what to do about it.*
 
-Built by **Bones HQ (@0x_BoneWalker)** for the BNB Hack: AI Trading Agent Edition — Track 2, Strategy Skills.
+Built by **Bones HQ (@0x_BoneWalker)** for the BNB Hack: AI Trading Agent Edition - Track 2, Strategy Skills.
 
 ---
 
