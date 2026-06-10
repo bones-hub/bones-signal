@@ -1,4 +1,4 @@
-# 🦴 BoneSignal — Market Regime Engine
+# 🦴 BoneSignal - Market Regime Engine
 
 > *Most signals tell you what price is doing. BoneSignal tells you what the market is doing — and what to do about it.*
 
